@@ -1,0 +1,95 @@
+Name: Chan Chee Hein
+Type of Member: G
+Item Ordered: Durian
+Total Purchase: 300.38
+
+Name: Yap Kah Yong
+Type of Member: B
+Item Ordered: Durian
+Total Purchase: 2403.00
+
+Name: Tay Tem Hoe
+Type of Member: G
+Item Ordered: Durian
+Total Purchase: 89.00
+
+Name: Mickey Mouse
+Type of Member: B
+Item Ordered: Watermelon
+Total Purchase: 155.04
+
+Name: Tommy Gan
+Type of Member: S
+Item Ordered: 100plus
+Total Purchase: 21.25
+
+Name: Jerry Ni
+Type of Member: N
+Item Ordered: Sprite
+Total Purchase: 20.00
+
+Name: Shin Chan
+Type of Member: G
+Item Ordered: Cherry
+Total Purchase: 274.80
+
+Name: Sky lim
+Type of Member: N
+Item Ordered: Banana
+Total Purchase: 120.40
+
+Name: Mister Potato
+Type of Member: N
+Item Ordered: Durian
+Total Purchase: 89.00
+
+Name: Banana Cake
+Type of Member: N
+Item Ordered: Durian
+Total Purchase: 356.00
+
+Name: nickson chan
+Type of Member: S
+Item Ordered: 100plus
+Total Purchase: 10.62
+
+Name: chan cch
+Type of Member: S
+Item Ordered: Banana
+Total Purchase: 204.68
+
+Name: baba n
+Type of Member: S
+Item Ordered: Banana
+Total Purchase: 204.68
+
+Name: baba n
+Type of Member: S
+Item Ordered: Cherry
+Total Purchase: 272.51
+
+Name: nmmnmnm poppo
+Type of Member: N
+Item Ordered: Sarsi
+Total Purchase: 22.40
+
+Name: nmmnmnm poppo
+Type of Member: N
+Item Ordered: Watermelon
+Total Purchase: 183.60
+
+Name: nomo po
+Type of Member: G
+Item Ordered: Cherry
+Total Purchase: 309.15
+
+Name: cch wong
+Type of Member: G
+Item Ordered: Cherry
+Total Purchase: 309.15
+
+Name: cch wong
+Type of Member: G
+Item Ordered: Milk
+Total Purchase: 60.08
+
